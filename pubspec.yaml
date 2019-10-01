@@ -11,8 +11,9 @@ dependencies:
   flutter:
     sdk: flutter
   path_provider : ^0.4.1
-  flutter_driver:
-    sdk: flutter
+#  flutter_driver:
+#    sdk: flutter
+#  intl: ^0.16.0
 
 # For information on the generic Dart part of this file, see the
 # following page: https://www.dartlang.org/tools/pub/pubspec
